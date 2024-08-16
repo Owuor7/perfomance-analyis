@@ -17,7 +17,7 @@ st.sidebar.title("Navigation")
 option = st.sidebar.radio("Go to", ["Homepage", "Data Information", "Visualization", "Machine Learning Model"])
 
 # Load the dataset
-df = pd.read_excel(r"C:\Users\Administrator\Downloads\INX_Future_Inc_Employee_Performance_CDS_Project2_Data_V1.8.xls")
+df = pd.read_excel(r"C:\Users\Administrator\OneDrive\Desktop\perfomance-analyis\INX_Future_Inc_Employee_Performance_CDS_Project2_Data_V1.8.xls")
 
 
 
