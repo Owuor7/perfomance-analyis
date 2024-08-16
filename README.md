@@ -1,1 +1,2 @@
 # perfomance-analyis
+This project aims to analyze and predict employee performance using machine learning techniques. The goal is to identify key factors that influence employee performance and to create a model that can accurately predict performance ratings. The project addresses the issue of declining employee performance, which has been impacting customer satisfaction and overall business productivity.
